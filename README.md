@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Fabio
 
-<!--
-**FabioCuello/FabioCuello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with special interest on Backend & Frontend. My main tech stack is based on MEARN, but I really... (Trust me...) REALLY enjoy learning about languages, frameworks and libraries.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: NodeJS / React / JS / MongoDB / HTML / CSS
+
+- 🌱 I’m currently learning about Cloud Services 
+- 📫 How to reach me: fabiocuellohernandez@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fabio-cuello-3034ab1bb/)  
+
+
+
