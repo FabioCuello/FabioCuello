@@ -1,6 +1,6 @@
 # Fabio Cuello
 
-I'm a software developer with special interest on Backend & Frontend development. My main tech stack is based on MEARN, but I really... (Trust me...) REALLY enjoy learning about languages, frameworks and libraries.
+I'm a software developer with special interest on Backend & Frontend development. My main tech stack is based on MEARN, but I really... (Trust me...) REALLY enjoy learning about languages, frameworks and libraries in general.
 
 * 🌱 I’m currently learning about Cloud Services 
 * 📫 How to reach me: fabiocuellohernandez@gmail.com 
