@@ -10,7 +10,7 @@ I'm a software developer with special interest on Backend & Frontend development
 * ⚛️ Javascript, TypeScript
 * 📚  ReactJS, Nodejs
 * 🖥  HTML, CSS 
-* 💾  MySQL, MongoDB
+* 💾  PostgreSQL, MongoDB
 
 
 ## Examples of work
